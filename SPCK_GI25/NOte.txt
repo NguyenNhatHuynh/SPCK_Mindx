@@ -1,0 +1,59 @@
+- Duy Anh
++ SPCK hoàn thành ✅ (nâng cấp thêm)
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGkYrUbYEE/4u8S2Evha4WBfT6SFg6XaQ/edit
+
+- Tuấn Khang
++ SPCK hoàn thành ✅
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGo-eS0OsE/4eCtE4PVgUlBvgBFhWYF2w/edit
+
+- Duyên Anh
++ SPCK chưa hoàn thành
++ Slide hoàn thành ✅
+https://www.canva.com/design/DAGo-fcW4Z4/ITuK7rhnsB6Ixn9FkJ5nGQ/edit
+
+- Nguyễn Huy
++ SPCK hoàn thành ✅
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGlClapO2g/YOFpo8Yk8ihAY3LcpqXJyg/edit
+
+- Minh Khang
++ SPCK hoàn thành ✅
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGo-W6QvNU/Dc-9Nywz-b3Lkf2h2LRKrg/edit?utm_content=DAGo-W6QvNU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- Bảo Hiền
++ SPCK hoàn thành ✅ 
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGVPQ2rvws/KDnq-wl9lE7moNTp9j5KVA/edit
+
+- Quang Thiện
++ SPCK chưa hoàn thành  
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGo-e3UxmI/1o0V9wHEeWRCyZT26D8gxA/edit
+
+
+==============================================
+Duy Anh:
+- Con lập trình bắn viên đạn như thế nào?
+- Con lập trình nhặt vật phẩm như thế nào?
+- Con lập trình thắng như thế nào?
+- Con lập trình thua như thế nào?
+- Con lập trình tạo ra enemy tự động như thế nào?
+
+Tuấn Khang :
+- Con lập trình di chuyển cho nhân vật chính như thế nào?
+- Con lập trình cộng mạnh ghép như thế nào?
+- Con lập trình thắng như thế nào?
+- Con lập trình thua như thế nào?
+
+
+Nguyễn Huy:
+- Con lập trình di chuyển cho nhân vật di chuyển như thế nào?
+- Con lập trình tạo ra container và enemy địt như thế nào ?
+- Con lập trình thắng như thế nào ?
+- Con lập trình thua như thế nào?
+
+
+
