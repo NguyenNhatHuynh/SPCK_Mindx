@@ -1,0 +1,135 @@
+======================
+(In progress)
+
+- Phát:
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Phong:
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Dự: 
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Trí: 
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Khang: 
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+*- Bình:
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Đức: 
+	+ Slide hoàn thành, (Finish)
+	+ SPCK chưa hoàn thành (Finish)
+- Ân:
+	+ Slide hoàn thành (Finish)
+	+ SPCK hoàn thành (Finish)
+https://bit.ly/sa14_nop
+
+======================================================================
+Link Slide SA15:
+
+Phong:
+https://www.canva.com/design/DAGg1tM_SGc/7hAp2jEc2AVsNaaoxjj09w/edit
+
+Phát:
+https://www.canva.com/design/DAGIBMDZlTE/ydMnk7BAos_AvtcYzzRMmg/edit
+
+Dự:
+https://www.canva.com/design/DAGfV0U_va4/vw-Q1DaKse2e-_-M66v3KQ/edit
+
+Trí:
+https://www.canva.com/design/DAGf08r20-E/bRRe186tQd54Eq5Q2nGnpg/edit
+
+Khang:
+https://www.canva.com/design/DAGg1irYXzU/aA0c4tssBUESo8KxXi-EYQ/edit
+
+Bình:
+https://www.canva.com/design/DAGfKybM5SU/RTGh7JBRx3YBPhxg2KipXA/edit
+
+Đức:
+https://www.canva.com/design/DAGfLOWZu94/PWEogUvpqNIUfbV5oEHiEQ/edit
+
+Ân:
+https://www.canva.com/design/DAGVUzbXMYk/-IfK3MLQJD4mmXN0cNO9KQ/edit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===========================================================
+
+Phong :
+- Thích gì hỏi đó
+
+
+Phát:
+- Hỏi con lập trình di chuyển cho nhân vật như thế nào
+- Làm sao để bắn ra viên đạn
+- Làm sao cộng điểm và xuất hiện được con Rác Lớn
+- Làm sao để win và Thua
+
+Dự:
+- Thích gì hỏi đó
+
+Trí:
+- Hỏi con lập trình di chuyển nhân vật như thế nào
+- Làm sao để tấn công xuất hiện cái đoàn tấn công 
+- Làm sao để chiến thắng và làm sao để thua
+- Note* Làm sao để cho con Quái thú tấn công 
+
+
+Khang: 
+- Con lập trình cho nhân vật nhảy như thế nào?
+- Con lập trình cho con sói xuất hiện như thế nào?
+- Làm sao để con thắng?
+- Làm sao để con thua?
+
+Bình:
+- Con lập trình bắn ra viên đạn như thế nào?
+- Và khi hạ được con sói thì làm sao để con chuyển qua màn chơi tiếp theo?
+- Con sử lý màn chơi thứ 3 như thế nào cái màn chơi kéo con nhân vật chính đi trên con đường chạm vạch đỏ...?
+- Con sử lý thua như thế nào?
+
+
+Đức:
+- Con lập trình trừ máu thành như thế nào?
+- Làm sao để con thắng và thua?
+- Con lập trình chiệu hồi ra con mèo và con chó khi đủ thời gian như thế nào?
+
+
+Ân : 
+- Con lập trình cho con nhân vật di chuyển như thế nào?
+- Con sử lý thắng như thế nào?
+- Con sử lý thua như thế nào? gợi ý nếu bạn quên "Khi cùng nhắn vào phím a và cô gái quai đầu lại biến check sẽ được đặt thành 1, khi nhắn và biến check là 1 thì mình thua"
+- .....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
