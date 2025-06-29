@@ -1,0 +1,97 @@
+WORK FOLLOW CLASS SI13
+
+- Thư
++ SPCK hoàn thành ✅
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGnB9ynefo/C56oDqlL_1JBAqndWLvPbQ/edit?utm_content=DAGnB9ynefo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- Minh:
++ SPCK hoàn thành ✅
++ Slide hoàn thành ✅
+https://www.canva.com/design/DAGluD_eAPQ/mz97ZPx0hs6-JAJ2U6A0bA/edit
+
+- Khôi 
++ SPCK hoàn thành ✅
++ Slide hoàn thành ✅
+https://www.canva.com/design/DAGmYMETuXc/Gk0fY67hQ1m8wJAeaa1Z9Q/edit 
+
+- Nhi
++ SPCK đã hoàn thành ✅
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGlD6i1KAk/CsErCzJjmwbWUvfpWVrjXQ/edit?utm_content=DAGlD6i1KAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- Như
++ SPCK hoàn thành ✅
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGluFaBia4/HKRP0gMBC8JBjlaT-Qw_Vg/edit
+
+- Kiệt: 
++ SPCK hoàn thành ✅
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGnB-r7fE4/A2JktAFkPtUj9AJt6ql2pg/edit
+
+- Vũ Quốc Bảo: 
++ SPCK hoàn thành ✅
++ Slide đã hoàn thành ✅
+https://www.canva.com/design/DAGlpsPvkGY/dL1DN3p-S3Y6GI61qyKiOg/edit
+
+- Nguyễn Bảo
++ SPCK đã hoàn thành ✅
++ Slide chưa hoàn thành 
+
+================================================
+Khôi: 
+- Con lập trình di chuyển cho nhân vật chính như thế nào?
+- Con lập trình bắn ra viên đạn như thế nào?
+- Con xử lý thắng như thế nào?
+- Con xử lý thua như thế nào?
+
+Thư: 
+- Con lập trình khi chạm vào bong bóng xanh được cộng điểm như thế nào?
+- Và con lập trình khi chạm vào quả bom thì trừ máu như thế nào?
+- Con lập trình tạo ra nhiều bong bóng như thế nào?
+- Con lập trình kết thúc màn chơi như thế nào?
+
+NBảo:
+- Con lập trình di chuyển cho nhân vật chính như thế nào?
+- Con lập trình bắn ra viên đạn của nhân vật chính như thế nào?
+- Con lập trình tạo ra nhiều quả bom như thế nào?
+- Con lập trình thắng như thế nào?
+- Con lập trình thua như thế nào?
+
+Nhi:
+- Con lập trình di chuyển cho nhân vật Hamster như thế nào?
+- Con lập trình chuyển màn chơi như thế nào ví dụ khi ở level1 chuyển sang level2 
+- Con lập trình chạm vào quả táo thì cộng điểm như thế nào?
+- Con lập trình ....
+
+Minh:
+- Con lập trình tạo ra từng bong bóng như thế nào 
+- Con Lập trình thắng như thế nào
+- Con lập trình thua như thế nào
+- Con lập trình bắn ra bong bóng như thế nào
+
+
+Kiệt 
+- Con lập trình chuyển câu hỏi như thế nào?
+- Con lập trình trả lời câu hỏi đúng và sai như thế nào?
+- Con sử thắng và thua như thế nào 
+- Con làm thêm tên và điểm và giây vào danh sách để hiển thị ra sao khi kết thúc màn chơi như thế nào.
+- Khối dùng đề làm gì?
+- Biến danh sách là gì?
+
+Như (Bạn này thíu tự tin nên lựa câu hỏi nha)
+- Con lập trình cho hình nền di chuyển như thế nào?
+- Con lập trình trả lời câu hỏi đúng nhưu thế nào ?
+- Phát tin là gì?
+- 
+
+Vũ Quốc Bảo:
+- Con lập trình cho mấy con zombie xuất hiện như thế nào?
+- Con lập trình mua tường thành cung như thế nào?
+- Con lập trình thắng như thế nào?
+- Con lập trình thua như thế nào?
+
+
+
+
