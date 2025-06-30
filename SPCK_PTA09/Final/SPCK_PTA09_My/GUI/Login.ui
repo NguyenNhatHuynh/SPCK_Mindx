@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LoginDialog</class>
+ <widget class="QDialog" name="LoginDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>785</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Login - Study with Bunny</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #E1F5FE;  /* Màu nền xanh pastel */
+
+</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="titleLabel">
+     <property name="font">
+      <font>
+       <family>Chalkboard SE</family>
+       <pointsize>36</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: #FFF9C4;
+    border-radius: 30px;
+
+</string>
+     </property>
+     <property name="text">
+      <string>Welcome to Study with Bunny 🐰</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="emailLineEdit">
+     <property name="font">
+      <font>
+       <family>Chalkboard SE</family>
+       <pointsize>23</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">
+    border: 2px solid #F88379;  /* viền hồng đào */
+    border-radius: 8px;
+</string>
+     </property>
+     <property name="placeholderText">
+      <string>Enter your email</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="passwordLineEdit">
+     <property name="font">
+      <font>
+       <family>Chalkboard SE</family>
+       <pointsize>23</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">
+    border: 2px solid #F88379;  /* viền hồng đào */
+    border-radius: 8px;</string>
+     </property>
+     <property name="echoMode">
+      <enum>QLineEdit::Password</enum>
+     </property>
+     <property name="placeholderText">
+      <string>Enter your password</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QCheckBox" name="rememberMeCheckBox">
+     <property name="font">
+      <font>
+       <family>Chalkboard SE</family>
+       <pointsize>18</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>Remember me</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="loginButton">
+     <property name="font">
+      <font>
+       <family>Chalkboard SE</family>
+       <pointsize>24</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">    background-color: #FFD1DC;     /* Nền hồng đào */
+    border: 2px solid #F88379;     /* Viền hồng cam đậm hơn */
+    border-radius: 12px;</string>
+     </property>
+     <property name="text">
+      <string>Login</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="signupButton">
+     <property name="font">
+      <font>
+       <family>Chalkboard SE</family>
+       <pointsize>24</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: 2px dashed #FFB6B9; /* viền kiểu đứt đoạn */
+    border-radius: 12px;
+    padding: 5px;
+
+</string>
+     </property>
+     <property name="text">
+      <string>Sign up →</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="bunnyImageLabel">
+     <property name="pixmap">
+      <pixmap>../image/SPCK/Ảnh màn hình 2025-05-18 lúc 11.29.49.png</pixmap>
+     </property>
+     <property name="scaledContents">
+      <bool>true</bool>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

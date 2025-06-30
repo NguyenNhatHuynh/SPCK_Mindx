@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>QuizWindow</class>
+ <widget class="QWidget" name="QuizWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>500</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Quiz Vui</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="label_title">
+     <property name="text">
+      <string>Quiz Vui - Kiểm tra kiến thức!</string>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>20</pointsize>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_question">
+     <property name="text">
+      <string>Câu hỏi sẽ hiển thị ở đây?</string>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>14</pointsize>
+      </font>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignLeft</set>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color: #F88379; padding: 10px;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="groupBox_answers">
+     <property name="title">
+      <string>Chọn đáp án:</string>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout_answers">
+      <item>
+       <widget class="QRadioButton" name="radio_answer1">
+        <property name="text">
+         <string>Đáp án 1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QRadioButton" name="radio_answer2">
+        <property name="text">
+         <string>Đáp án 2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QRadioButton" name="radio_answer3">
+        <property name="text">
+         <string>Đáp án 3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QRadioButton" name="radio_answer4">
+        <property name="text">
+         <string>Đáp án 4</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="btn_comeback">
+     <property name="text">
+      <string>Quay lại</string>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background: #FFD1DC; border-radius: 10px; padding: 8px 20px; font-size: 16px;</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
