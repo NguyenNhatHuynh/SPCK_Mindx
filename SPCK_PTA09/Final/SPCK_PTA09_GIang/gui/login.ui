@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DarkSignIn</class>
+ <widget class="QWidget" name="DarkSignIn">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>572</width>
+    <height>429</height>
+   </rect>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">
+    QWidget {
+        background-color: #121212;
+        color: white;
+        font-family: 'Segoe UI';
+    }
+    QLabel {
+        color: #ffffff;
+    }
+    QPushButton {
+        background-color: #1e1e1e;
+        color: white;
+        border-radius: 10px;
+        padding: 8px;
+    }
+    QPushButton#createAccountButton {
+        background-color: #f44336;
+        font-weight: bold;
+        color: white;
+    }
+    QLineEdit {
+        background-color: #2a2a2a;
+        border: none;
+        border-radius: 10px;
+        padding: 10px;
+        color: white;
+    }
+   </string>
+  </property>
+  <widget class="QLabel" name="titleLabel">
+   <property name="geometry">
+    <rect>
+     <x>-100</x>
+     <y>70</y>
+     <width>651</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font-size: 22px; font-weight: bold;
+background-color: none;
+</string>
+   </property>
+   <property name="text">
+    <string>                     Login </string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="emailInput">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>120</y>
+     <width>371</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: black;</string>
+   </property>
+   <property name="placeholderText">
+    <string>Email address...</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="orLabel">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>300</y>
+     <width>481</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: #888; padding: 6px;
+background-color: transparent;</string>
+   </property>
+   <property name="text">
+    <string>Or</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="logind">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>240</y>
+     <width>311</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>16</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Login</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="skibidipassword">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>180</y>
+     <width>371</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: black;</string>
+   </property>
+   <property name="placeholderText">
+    <string>Password...</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-140</x>
+     <y>30</y>
+     <width>541</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>22</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 50px; /* Đảm bảo QLabel là hình vuông, thì sẽ tạo hình tròn */
+background-color: transparent;
+</string>
+   </property>
+   <property name="text">
+    <string>                                                   🍅</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnRegister">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>340</y>
+     <width>281</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:none;
+color : red</string>
+   </property>
+   <property name="text">
+    <string>Create Account</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
