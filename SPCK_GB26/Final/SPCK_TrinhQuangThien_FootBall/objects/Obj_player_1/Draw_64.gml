@@ -1,0 +1,1 @@
+draw_healthbar(60, 600, 300, 650, global.hp_player1/global.hp_player1_max * 100, $FF020202 & $FFFFFF, $FF0000FF & $FFFFFF, $FF00FF00 & $FFFFFF, 0, (($FF020202>>24) != 0), (($FFFFFFFF>>24) != 0));
