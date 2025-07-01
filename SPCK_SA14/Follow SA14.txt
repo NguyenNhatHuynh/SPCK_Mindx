@@ -1,0 +1,135 @@
+*Kiệt:
+	+ Slide chưa hoàn thành  (In progress)
+	+ Sản phẩm chưa hoàn thành  (In progress)
+Khôi:
+	+ Slide chưa hoàn thành (Finish)
+	+ Sản phẩm hoàn thành (Finish)
+Như: 
+	+ Slide hoàn thành (Finish)
+	+ Sản phẩm hoàn thành (Finish)
+Nhi: 
+	+ Slide hoàn thành (Finish)
+	+ Sản phẩm hoàn thành (Finish)
+Minh: 
+	+ Slide hoàn thành (Finish)
+	+ Sản phẩm chưa hoàn thành (Finish)
+N Bảo: 
+	+ Slide hoàn thành (Finish)
+	+ Sản phẩm chưa hoàn thành (Finish)
+V Bảo: 
+	+ Slide hoàn thành (Finish)
+	+ Sản phẩm chưa hoàn thành (Finish)
+Thư: 
+	+ Slide hoàn thành (Finish)
+	+ Sản phẩm chưa hoàn thành (Finish)
+
+
+=======================================================
+SLIDE 
+
+Như: 
+https://www.canva.com/design/DAGRX9ENESs/yLov1itNlXkvS26no_eAuA/edit
+
+Minh:
+https://www.canva.com/design/DAGf0ETs3tM/32-JqVNrqWyTEwEOq28J2A/edit
+
+Nhi:
+https://www.canva.com/design/DAGfKAjuA1o/OiAM8QaimPJb3N2R4rkqPQ/edit
+
+Khôi:
+https://www.canva.com/design/DAGhHO4thnM/z1sVb9eVYel0YX4Uhurczg/edit
+
+Vũ Bảo:
+https://www.canva.com/design/DAGf0O2PjUo/KjdRgO66IlrS39UgcYR6Eg/edit
+
+Thư:
+https://www.canva.com/design/DAGf0L1JppM/ZJCQ0hR7gwcVT2EYs0F6eg/edit
+
+Nguyễn Bảo:
+https://www.canva.com/design/DAGf0Jq57Fw/owrzo264Of1LlMbyr0fYbg/edit
+
+Kiệt:
+https://www.canva.com/design/DAGhHxB_MO8/3zQEml4w9w23pDQlNaHTvA/edit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==========================================
+
+Như: 
+- Thích gì hỏi đó
+
+
+Minh:
+- Con lập trình cho mấy con dân làng hoặc con Player nhân vật chính của con hiện lên thông báo để mình nhập như thế nào?
+- Con sử lý câu trả lời đúng hoặc sai như thế nào?
+-  Làm sao để con thắng ?
+- Làm sao để con thua?
+....
+
+
+Nhi:
+- Con lập trình cho com Chuột đụng vào cái bát thì đỏi trang phục như thế nào?
+- Con lập trình di chuyển cho nhân vật chuột như thế nào?
+- Con lập trình cho nhân vật táo xuất hiện trên cây như thế nào?
+- Con lập trình cho chú mèo rượt đuổi chú chuột như thế nào?
+...
+
+
+Khôi:
+- Con lập trình cho chú cá của mình đi theo con trỏ chuột như thế nào?
+- Con lập trình cộng điểm khi chú cá của mình ăn cá nhỏ như thế nào?
+- Khi nào mình chiến thắng?
+- KHi nào mình thua?
+
+
+Thư:
+- Con lập trình quả bóng tự động xuất hiện như thế nào?
+- Con lập trình cho con trỏ chuột chạm vào quả bóng thì quả bóng thì cộng số điểm quả bóng như thế nào?
+- làm sao để mình thắng ?
+- Note* Nếu còn thời gian . Hỏi về một số kiến thức nhỏ về biến danh sách
+
+
+Nguyễn Bảo:
+- Con lập trình cho 2 nhân vật Player di chuyển và tấn công như thế nào?
+- Con lập trình cho mấy con enemy thường xuất hiện như thế nào?
+- Làm sao để xuất hiện con BOss
+- Làm sao để thăng và thua?
+
+
+
+Kiệt:
+- Thích gì hỏi đó
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
