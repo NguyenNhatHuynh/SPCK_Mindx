@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sound_music_bakcground",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":137.76978,
+  "name":"sound_music_bakcground",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sound_music_bakcground.mp3",
+  "type":0,
+  "volume":0.31,
+}
