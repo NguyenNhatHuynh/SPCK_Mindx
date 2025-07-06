@@ -18,7 +18,6 @@
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QVBoxLayout" name="verticalLayout">
-    <!-- Thêm nút comeback ở đây -->
     <item>
      <widget class="QPushButton" name="btn_comeback">
       <property name="text">
@@ -35,7 +34,6 @@
       </property>
      </widget>
     </item>
-    <!-- ...existing code... -->
     <item>
      <widget class="QLabel" name="titleLabel">
       <property name="font">
@@ -83,6 +81,22 @@
      padding: 10px;
      color: #000000; /* Màu chữ hồng đào */
      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Hiệu ứng bóng chữ */</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="btn_start">
+      <property name="text">
+       <string>Bắt đầu</string>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>200</width>
+        <height>50</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FF69B4; border-radius: 15px; font-size: 18px; color: white;</string>
       </property>
      </widget>
     </item>

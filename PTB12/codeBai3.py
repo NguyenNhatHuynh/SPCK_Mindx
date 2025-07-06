@@ -18,4 +18,7 @@ if len(words) > 2:
     print("Ten dem:", ten_dem)
 
 # In ten
-print("Ten:", ten)
+print("Ho: ", ho)
+print("Ten dem:", ten_dem)
+print("Ten: ", ten)
+

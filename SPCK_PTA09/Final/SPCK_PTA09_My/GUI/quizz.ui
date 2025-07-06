@@ -13,11 +13,14 @@
   <property name="windowTitle">
    <string>Quiz Vui</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #E6F0FA;</string>
+  </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
     <widget class="QLabel" name="label_title">
      <property name="text">
-      <string>Quiz Vui - Kiểm tra kiến thức!</string>
+      <string>Quiz vui - Kiểm tra kiến thức! 🐰</string>
      </property>
      <property name="font">
       <font>
@@ -28,12 +31,33 @@
      <property name="alignment">
       <set>Qt::AlignCenter</set>
      </property>
+     <property name="styleSheet">
+      <string notr="true">color: #FFD700;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_note">
+     <property name="text">
+      <string>Bạn hãy thử hết 3 câu hỏi để đạt điều kiện!</string>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color: #FF4040;</string>
+     </property>
     </widget>
    </item>
    <item>
     <widget class="QLabel" name="label_question">
      <property name="text">
-      <string>Câu hỏi sẽ hiển thị ở đây?</string>
+      <string>Nhập câu hỏi số 1 ngay đây!</string>
      </property>
      <property name="font">
       <font>
@@ -52,6 +76,9 @@
     <widget class="QGroupBox" name="groupBox_answers">
      <property name="title">
       <string>Chọn đáp án:</string>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: #FFFACD; border-radius: 10px;</string>
      </property>
      <layout class="QVBoxLayout" name="verticalLayout_answers">
       <item>
@@ -83,6 +110,34 @@
        </widget>
       </item>
      </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="btn_add_question">
+     <property name="text">
+      <string>Thêm câu hỏi</string>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background: #FF69B4; border-radius: 10px; padding: 8px 20px; font-size: 16px; color: white;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_result">
+     <property name="text">
+      <string>Hôm nay bạn đã hoàn thành 0/5 bài học! Cố lên nhé 🥰</string>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color: #FF69B4; background: #FFE4E1; border-radius: 10px; padding: 5px;</string>
+     </property>
     </widget>
    </item>
    <item>

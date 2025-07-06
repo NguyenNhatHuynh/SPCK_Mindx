@@ -110,12 +110,19 @@ class StudyTimerWindow(QMainWindow):
         ui_file = os.path.join(os.path.dirname(__file__), "GUI", "study_timer.ui")
         uic.loadUi(ui_file, self)
         self.btn_comeback.clicked.connect(self.comeback)
-        self.time_left = 60
+        self.btn_start.clicked.connect(self.start_timer)
         self.timeEdit.setDisplayFormat("mm:ss")
-        self.timeEdit.setTime(QTime(0, self.time_left // 60, self.time_left % 60))
         self.timer = QTimer(self)
         self.timer.timeout.connect(self.update_timer)
-        self.timer.start(1000)
+
+    def start_timer(self):
+        # Lấy thời gian từ timeEdit và tính toán thời gian còn lại (tính bằng giây)
+        current_time = self.timeEdit.time()
+        self.time_left = current_time.minute() * 60 + current_time.second()
+        if self.time_left > 0:
+            self.timer.start(1000)
+        else:
+            QMessageBox.warning(self, "Cảnh báo", "Thời gian phải lớn hơn 0!")
 
     def update_timer(self):
         if self.time_left > 0:
@@ -127,6 +134,7 @@ class StudyTimerWindow(QMainWindow):
             QMessageBox.information(self, "Hết giờ", "Hết giờ!")
 
     def comeback(self):
+        self.timer.stop()  # Stop timer when returning
         main.show()
         self.close()
 
