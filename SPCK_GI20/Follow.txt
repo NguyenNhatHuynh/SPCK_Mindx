@@ -1,0 +1,129 @@
+Thiện (Slide chưa, trò chơi hoàn thành)
+Viết Khang (Slide chưa hoàn thành, SPCK chưa hoàn thành)
+Thế Khang (Slide chưa hoàn thành, SPCK chưa hoàn thành)
+Trí (Slide chưa hoàn thành, SPCK chưa hoàn thành)
+Minh Phúc (Slide chưa hoàn thành, SPCK chưa hoàn thành)
+*Sinh Phúc (Slide chưa hoàn thành, SPCK chưa hoàn thành)
+Anh Duy (Slide chưa hoàn thành, SPCK chưa hoàn thành)
+Long Slide chưa hoàn thành, SPCK chưa hoàn thành)
+
+
+
+
+
+
+
+======================
+(In progress)
+
+- Thiện 
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Viết Khang
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Thế Khang
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Trí: 
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Minh Phúc
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+- Sinh Phúc:
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+*- Anh Duy:
+	+ Slide chưa hoàn thành, (In progress)
+	+ SPCK hoàn thành (Finish)
+
+- Long:
+	+ Slide hoàn thành, (Finish)
+	+ SPCK hoàn thành (Finish)
+
+https://bit.ly/sa14_nop
+
+======================================================================
+Link Slide GI20
+
+- Thiện 
+https://www.canva.com/design/DAGhMWYR-NQ/qXMWmV7wnsQ5-ryDDLWl3g/edit
+	
+- Viết Khang
+https://www.canva.com/design/DAGh2UbsO5M/DDffwEjvVGGNWp6Cn_L5Ug/edit
+	
+- Thế Khang:
+https://www.canva.com/design/DAGLiqOB_7c/MKm7WOa2yz4QDJ6G1-6xbQ/edit
+	
+- Trí: 
+https://www.canva.com/design/DAGhMlAn83Q/sPSINigqg85qQiRaZlatHw/edit
+	
+- Minh Phúc:
+https://www.canva.com/design/DAGhMau6RIY/Be7H-lN-ia4PYj-FdKKbRg/edit
+	
+- Sinh Phúc:
+https://www.canva.com/design/DAGhMUsCHTo/jTz1Hgef8Vm7mxUqKPoxAg/edit
+	
+- Anh Duy:
+
+- Long:
+https://www.canva.com/design/DAGhMgdqw0Y/z9m-mNKF7OaYJaCe3kxrZg/edit
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===========================================================
+Đức Thiện:
+- Làm sao cộng chìa khóa?
+- Làm sao sử lý cánh cửa đống mở?
+- Làm sao để thua?
+- Làm sao để thắng?
+
+Minh Phúc:
+- Làm sao để chiệu thồi mấy con nhân vật ra?
+- Làm sao để trừ máu thành khi con enemy chạm vào tòa thành?
+- Làm sao để win và thắng
+- Làm sao con Spwan được các con enemy?
+- Làm sao để mình có thể xóa khi hai con enemy và mình chạm vào nhau?
+
+Sinh Phúc:
+- Làm sao để spwan ra các con enemy
+- Làm sao để bắn ra viên đạn 
+- Làm sao để mình bị trừ máu
+- Làm sao để thắng , làm sao để thua?
+- Con boss có mấy máu 
+
+Minh Trí:
+- Làm sao để con lập trình nhân vật di chuyển
+- Con lập trình thắng như thế nào?
+- Con lập trình thua như thế nào?
+- .....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

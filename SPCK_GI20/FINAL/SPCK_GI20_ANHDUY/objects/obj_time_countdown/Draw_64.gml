@@ -1,0 +1,1 @@
+draw_text(15, 70, "TimeCountDown: " + string(global.timecountdown))

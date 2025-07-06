@@ -1,0 +1,1 @@
+draw_text(1150, 60, "Hoi Chieu Player 2: " + string(global.hoichieu_player2))

@@ -1,0 +1,1 @@
+draw_text(15, 90, "Hoi Chieu: " + string(global.hoichieu))
