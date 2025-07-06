@@ -1,0 +1,172 @@
+ 1. Đếm số chữ cái, chữ số và ký tự đặc biệt trong một chuỗi
+✍️ Đề bài (có gợi ý)
+Viết chương trình:
+
+Nhập vào một chuỗi bất kỳ từ người dùng.
+
+Đếm:
+
+Số chữ cái (a-z, A-Z).
+
+Số chữ số (0-9).
+
+Số ký tự đặc biệt (những ký tự còn lại, ví dụ: @, #, !, ...).
+
+In kết quả ra màn hình.
+
+➡️ Gợi ý:
+
+Dùng for để duyệt từng ký tự trong chuỗi.
+
+Dùng .isalpha(), .isdigit() để kiểm tra chữ cái & chữ số.
+
+
+
+================================================================================
+
+2. Menu chương trình tính hình học (dùng dict giả lập switch-case)
+✍️ Đề bài (có gợi ý)
+Viết chương trình hiển thị menu:
+
+markdown
+Copy
+Edit
+1. Tính chu vi hình tròn
+2. Tính diện tích hình chữ nhật
+3. Tính diện tích tam giác vuông
+4. Thoát
+Yêu cầu người dùng chọn 1 mục.
+
+Sử dụng dict để giả lập switch-case, gọi hàm tương ứng để tính:
+
+Chu vi hình tròn (C = 2 * π * r).
+
+Diện tích hình chữ nhật (S = dài * rộng).
+
+Diện tích tam giác vuông (S = (a * b) / 2).
+
+Nếu nhập 4 thì thoát chương trình.
+
+➡️ Gợi ý:
+
+Dùng math.pi để lấy số π.
+
+Viết mỗi phép tính trong một hàm riêng.
+================================================================================
+
+3. Đảo ngược một mảng số nguyên
+✍️ Đề bài (có gợi ý)
+Viết chương trình:
+
+Nhập vào một chuỗi các số nguyên cách nhau bởi dấu phẩy, ví dụ: 1,3,5,7.
+
+Chuyển thành list số nguyên.
+
+Đảo ngược list đó.
+
+In ra list sau khi đảo.
+
+➡️ Gợi ý:
+
+Dùng split(',') để tách chuỗi.
+
+Dùng slicing [::-1] hoặc list.reverse().
+================================================================================
+
+4. Tính tổng và tìm số lớn nhất trong list
+✍️ Đề bài (có gợi ý)
+Viết chương trình:
+
+Nhập vào số n là số phần tử của list.
+
+Nhập tiếp n số nguyên.
+
+Tính tổng tất cả các số và tìm số lớn nhất.
+
+➡️ Gợi ý:
+
+Dùng for để nhập list.
+
+Dùng sum() để tính tổng, max() tìm số lớn nhất.
+
+================================================================================
+5. Bảng cửu chương
+✍️ Đề bài (có gợi ý)
+Viết chương trình:
+
+Nhập vào một số nguyên n (2 ≤ n ≤ 9).
+
+In ra bảng cửu chương của n từ n x 1 đến n x 10.
+
+➡️ Gợi ý:
+
+Dùng for i in range(1,11) để in n x i.
+
+===============================================================================
+6. Đếm số âm, dương và bằng 0 trong list
+✍️ Đề bài (có gợi ý)
+Viết chương trình:
+
+Nhập n, rồi nhập tiếp n số thực.
+
+Đếm:
+
+Bao nhiêu số âm.
+
+Bao nhiêu số dương.
+
+Bao nhiêu số bằng 0.
+
+In kết quả.
+
+➡️ Gợi ý:
+
+Dùng for + if-elif-else để kiểm tra từng phần tử.
+
+====================================================================================
+7. Đếm số chẵn lẻ trong list
+✍️ Đề bài
+Viết chương trình:
+
+Nhập n số nguyên.
+
+Đếm xem có bao nhiêu số chẵn, bao nhiêu số lẻ.
+
+➡ Gợi ý:
+
+Dùng for duyệt list, dùng if x % 2 == 0 để kiểm tra chẵn.
+
+===================================================================================
+
+8. In hình tam giác số
+✍️ Đề bài
+Nhập n.
+In ra hình tam giác số như sau:
+n = 5
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+➡ Gợi ý:
+
+Dùng for lồng for để in từng dòng.
+
+===================================================================================
+Viết máy tính mini
+✍️ Đề bài
+Viết chương trình hiển thị menu:
+
+markdown
+Copy
+Edit
+1. Cộng
+2. Trừ
+3. Nhân
+4. Chia
+5. Thoát
+Nhập lựa chọn, nhập tiếp 2 số a và b, rồi thực hiện phép tính tương ứng.
+
+➡ Gợi ý:
+
+Dùng dict giả switch-case hoặc if-elif.
