@@ -1,1 +1,0 @@
-global.total_enemy = 0;
