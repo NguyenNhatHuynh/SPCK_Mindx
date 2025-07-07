@@ -1,0 +1,1 @@
+global.hpenemy2 -= 20;

@@ -1,0 +1,3 @@
+
+
+global.hadich = 0;

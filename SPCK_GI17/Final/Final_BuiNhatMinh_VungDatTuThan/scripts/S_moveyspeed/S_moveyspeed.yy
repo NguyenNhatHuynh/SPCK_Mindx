@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"S_moveyspeed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"S_moveyspeed",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

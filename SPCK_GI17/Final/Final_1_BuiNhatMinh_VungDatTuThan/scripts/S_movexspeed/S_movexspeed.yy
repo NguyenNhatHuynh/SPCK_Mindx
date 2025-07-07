@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"S_movexspeed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"S_movexspeed",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

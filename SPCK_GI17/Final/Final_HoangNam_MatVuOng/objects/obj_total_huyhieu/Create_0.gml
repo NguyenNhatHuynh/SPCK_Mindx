@@ -1,0 +1,1 @@
+global.total_huyhieu = 0;

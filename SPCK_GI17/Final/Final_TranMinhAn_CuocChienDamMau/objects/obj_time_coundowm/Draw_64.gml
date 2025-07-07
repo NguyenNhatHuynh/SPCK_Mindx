@@ -1,0 +1,1 @@
+draw_text(1300, 700, string(global.timecount))
