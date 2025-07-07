@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_tiengxe_tong",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.553197,
+  "name":"snd_tiengxe_tong",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_tiengxe_tong.wav",
+  "type":0,
+  "volume":1.0,
+}

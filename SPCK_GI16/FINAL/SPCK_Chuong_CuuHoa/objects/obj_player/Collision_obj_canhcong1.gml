@@ -1,0 +1,1 @@
+room_goto(Room_main_v2);
