@@ -1,0 +1,1 @@
+global.soviendan = 5

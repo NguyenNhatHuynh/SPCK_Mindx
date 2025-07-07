@@ -1,0 +1,157 @@
+- Bảo Hiền:
+	+ Slide hoàn thành, 
+	+ SPCK hoàn thành
+- Huy:
+	+ Slide hoàn thành, 
+	+ SPCK SPCK hoàn thành
+- Duyên Anh: 
+	+ Slide hoàn thành
+	+ SPCK hoàn thành (Update More)(Chưa lấy SPCK)
+- Minh Khang: 
+	+ Hoàn thành Slide, 
+	+ SPCK hoàn thành
+- Tuấn Khang: 
+	+ Hoàn thành Slide, 
+	+ SPCK hoàn thành
+- Thiện: 
+	+ Slide hoàn thành, 
+	+ SPCK hoàn thành
+- Duy Anh: 
+	+ Slide hoàn thành, 
+	+ SPCK hoàn thành
+- Thiên An:
+	+ Slide hoàn thành, 
+	+ SPCK hoàn thành
+
+
+======================================================================
+Link Slide GA24:
+Duy Anh:
+https://www.canva.com/design/DAGgdHkldCw/2oZx-heVbvZ_jIyYHt_GTg/edit
+
+Tuấn Khang:
+https://www.canva.com/design/DAGgdeVnjuY/pCJJHX54htfIcXwVrtKx_g/edit
+
+Bảo Hiền:
+https://www.canva.com/design/DAGgcQdnloQ/C9dR49vZC7wRSAv0tvf9Aw/edit
+
+Minh Khang:
+https://www.canva.com/design/DAGgdZwVet0/WR2328q4YkmJ6JjR3GRk1Q/edit
+
+Duyên Anh:
+https://www.canva.com/design/DAGgls0gLXE/T7fP4y2nX4sGe3fSkqblGg/edit
+
+Huy:
+https://www.canva.com/design/DAGgcXwHDyA/dzy8YRJgfMQ3sT-3JPRZoQ/edit
+
+Quang Thiện:
+https://www.canva.com/design/DAGgdSFRObc/U4bJWlgMBjkfTAP1KqgrmA/edit
+
+Thiên An:
+https://www.canva.com/design/DAGgS3Y43YE/ZFbbHn674tEpZ9wshsD51w/edit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=====================================================================
+- Bảo Hiền (Bé này yếu nhất lớp)
++ Con lập trình hiệu ứng nút to nhỏ như thế nào 
++ Con có sử dụng kế thừa không 
++ Con lập trình di chuyển cho nhân vật như thế nào
++ Con lập trình bắn ra viên đạn như thế nào
++ Con Lập trình Xuất Hiện ra Con Zombie Boss Như thế nào
++ Con làm sao để thắng và làm sao để thua
+
+- Huy (Bé này yếu nhì lớp)
++ Con lập trình di chuyển như thế nào
++ Con lập trình bắn ra viên đạn như thế nào
++ Con lập trình tạo ra nhân vật enemy tự động như thế nào?
++ Con lập trình tạo ra vật phẩm như thế nào?
++ Con lập trình xuất hiên Boss như thế nào? Và Boss di chuyển tự động như thế nào gựi ý dùng Path?
++ Làm sao để con thắng ?
++ Làm sao để con thua?
+
+- Quang Hiện:
++ Con lập trình di chuyển cho 2 nhân vật như thế nào?
++ Con làm sao để đá bóng ?
++ Bóng giả và bóng thật có công dụng gì và giải thích code?
++ Làm sao để hồi phục chiêu?
++ Làm sao để có hiệu ứng lửa cháy và nó có công dụng gì giải thích trong code?
++ Làm sao để một player có thể thắng?
+
+- Tuấn Khang:
++ Con lập trình hiệu ứng nút to nhỏ như thế nào 
++ Con có sử dụng kế thừa không 
++ Con lập trình nhân vật chính di chuyển như thế nào? Phân biệt keydown - key up - key press ?
++ Con lập trình tấn công như thế nào?
++ Con lập trình cho Enemy thường khi lại gần tấn công mình như thế nào?
++ Làm sao để khi enemy thường chết thì xuất hiện Enemy Boss ?
++ Làm sao để Boss tấn công?
++ Làm sao để thắng làm sao để thua?
+
+- Minh Khang:
++ Con lập trình tấn công như thế nào ?
++ Con lập trình các nút có hiệu ứng hover như thế nào con có sử dụng kế thừa không và code nó nằm chổ nào ? 
++ Con lập trình cho enemy Di chuyển như thế nào và nó tấn công nữa? 
++ Con lập trình hiện thanh máu như thế nào?
++ Con lập trình thắng / thua như thế nào?
+
+Duy Anh:
++ Con lập trình di chuyển cho nhân vật chính như thế nào?
++ Con lập trình bắn ra viên đạn như thế nào?
++ Con lập trình cho enemy thường tạo tự dộng như thế nào?
++ Con lập trình cho enemy boss xuất hiện khi nào?
++ Làm sao để con thắng làm sao để thua?
+
+
+Duyên Anh:
+- Con làm sao để Phong nền có thể di chuyển?
+- Con lập trình di chuyển nhảy cho nhân vật Mèo như thế nào?
+- Con lập trình Mèo va chạm vào Vật cản như thế nào?
+- Con lập trình countdown time như thế nào?
+- Con lập trình thắng như thế nào ?
+- Con lập trình thua như thế nào có bao nhiêu trường hợp để thua?
+
+
+====
+Tuan Khang
+Quang Thien
+Minh Khang
+Duyên Anh
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

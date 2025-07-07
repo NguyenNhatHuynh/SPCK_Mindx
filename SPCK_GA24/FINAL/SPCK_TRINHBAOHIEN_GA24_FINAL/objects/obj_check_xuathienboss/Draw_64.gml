@@ -1,0 +1,1 @@
+draw_text(10, 110, "Your Score: " + string(global.score))

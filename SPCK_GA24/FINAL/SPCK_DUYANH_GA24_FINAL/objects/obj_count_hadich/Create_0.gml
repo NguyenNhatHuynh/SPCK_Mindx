@@ -1,0 +1,1 @@
+global.zombies = 0;
