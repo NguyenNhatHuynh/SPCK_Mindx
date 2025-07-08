@@ -17,7 +17,15 @@ SPCK: 50/100%
 Slide: Hoàn thành cơ bản
 https://www.canva.com/design/DAGrEU5GpBI/7taJqEeSLjpUVGseNVUSUQ/edit
 
-btncomback     
-pushbutton
- 
+
+Minh:
+SPCK: 70/100%
+Slide:  Hoàn thành 
+https://www.canva.com/design/DAGrEQ7cNLM/YYUZA0gpYx2Jgos4gjpwsg/edit?utm_content=DAGrEQ7cNLM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+Sơn:
+SPCK: 80/100%
+Slide: Chưa hoàn thành
+
 
