@@ -7,29 +7,32 @@
     <x>0</x>
     <y>0</y>
     <width>800</width>
-    <height>600</height>
+    <height>618</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color:#33CCFF;</string>
+   <string notr="true">background-color:white;</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>160</x>
-      <y>-20</y>
-      <width>751</width>
-      <height>111</height>
+      <x>270</x>
+      <y>10</y>
+      <width>291</width>
+      <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
       <pointsize>19</pointsize>
      </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Trang Thông Tin Bán Xe</string>
@@ -38,17 +41,17 @@
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>590</x>
-      <y>70</y>
+      <x>570</x>
+      <y>80</y>
       <width>181</width>
-      <height>221</height>
+      <height>201</height>
      </rect>
     </property>
     <property name="text">
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../../Downloads/SPCK_CHUONG/images/xe3.jpg</pixmap>
+     <pixmap>../images/xe-dap-nesto-panda-2025-ava-1.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -57,7 +60,7 @@
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>330</x>
+      <x>310</x>
       <y>80</y>
       <width>201</width>
       <height>201</height>
@@ -67,7 +70,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../../Downloads/SPCK_CHUONG/images/xe 5.jpg</pixmap>
+     <pixmap>../images/xe-dap-nesto-ostrich-ava-1.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -76,7 +79,7 @@
    <widget class="QLabel" name="label_4">
     <property name="geometry">
      <rect>
-      <x>60</x>
+      <x>40</x>
       <y>80</y>
       <width>211</width>
       <height>201</height>
@@ -86,7 +89,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../../Downloads/SPCK_CHUONG/images/2023-xtc-800-27-5-ghi-3.jpg</pixmap>
+     <pixmap>../images/xe-dap-nesto-tiger-ava-1.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -95,8 +98,8 @@
    <widget class="QLabel" name="label_6">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>340</y>
+      <x>80</x>
+      <y>330</y>
       <width>161</width>
       <height>41</height>
      </rect>
@@ -110,14 +113,14 @@
      <string notr="true">color: red;</string>
     </property>
     <property name="text">
-     <string> 4.500,000</string>
+     <string> 4.500,000 VND</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_8">
     <property name="geometry">
      <rect>
-      <x>360</x>
-      <y>340</y>
+      <x>340</x>
+      <y>330</y>
       <width>181</width>
       <height>41</height>
      </rect>
@@ -131,14 +134,14 @@
      <string notr="true">color: red;</string>
     </property>
     <property name="text">
-     <string> 3.456.00</string>
+     <string> 3.456.000 VND</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_10">
     <property name="geometry">
      <rect>
-      <x>630</x>
-      <y>340</y>
+      <x>610</x>
+      <y>330</y>
       <width>141</width>
       <height>31</height>
      </rect>
@@ -152,57 +155,15 @@
      <string notr="true">color: red;</string>
     </property>
     <property name="text">
-     <string>6.000.000</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_11">
-    <property name="geometry">
-     <rect>
-      <x>70</x>
-      <y>510</y>
-      <width>221</width>
-      <height>71</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>15</pointsize>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">color: red;</string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton">
-    <property name="geometry">
-     <rect>
-      <x>280</x>
-      <y>490</y>
-      <width>221</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">background-color: white;</string>
-    </property>
-    <property name="text">
-     <string>quay lại trang chủ </string>
+     <string>6.000.000 VND</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btn_sanpham1">
     <property name="geometry">
      <rect>
-      <x>70</x>
+      <x>40</x>
       <y>300</y>
-      <width>181</width>
+      <width>211</width>
       <height>28</height>
      </rect>
     </property>
@@ -215,15 +176,15 @@
      <string notr="true">background: transparent</string>
     </property>
     <property name="text">
-     <string>xe đạp đua 404</string>
+     <string>Xe đạp Nesto Panda 2025</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btn_sanpham2">
     <property name="geometry">
      <rect>
-      <x>330</x>
-      <y>290</y>
-      <width>181</width>
+      <x>300</x>
+      <y>300</y>
+      <width>211</width>
       <height>28</height>
      </rect>
     </property>
@@ -236,15 +197,15 @@
      <string notr="true">background: transparent</string>
     </property>
     <property name="text">
-     <string>xe đạp đua 113</string>
+     <string>Xe đạp Nesto Panda 2025</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btn_sanpham3">
     <property name="geometry">
      <rect>
-      <x>580</x>
-      <y>310</y>
-      <width>181</width>
+      <x>560</x>
+      <y>300</y>
+      <width>211</width>
       <height>28</height>
      </rect>
     </property>
@@ -257,7 +218,26 @@
      <string notr="true">background: transparent</string>
     </property>
     <property name="text">
-     <string>xe đạp đua 976</string>
+     <string>Xe đạp Nesto Panda 2025</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>380</y>
+      <width>801</width>
+      <height>191</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../images/banner.PNG</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
     </property>
    </widget>
    <zorder>label_4</zorder>
@@ -267,11 +247,10 @@
    <zorder>label_6</zorder>
    <zorder>label_8</zorder>
    <zorder>label_10</zorder>
-   <zorder>label_11</zorder>
-   <zorder>pushButton</zorder>
    <zorder>btn_sanpham1</zorder>
    <zorder>btn_sanpham2</zorder>
    <zorder>btn_sanpham3</zorder>
+   <zorder>label_5</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -279,7 +258,7 @@
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>26</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>

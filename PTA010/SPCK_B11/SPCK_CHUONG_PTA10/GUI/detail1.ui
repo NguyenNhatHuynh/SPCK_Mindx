@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
+    <width>747</width>
     <height>600</height>
    </rect>
   </property>
@@ -17,17 +17,17 @@
    <widget class="QLabel" name="label_12">
     <property name="geometry">
      <rect>
-      <x>50</x>
-      <y>60</y>
-      <width>211</width>
-      <height>201</height>
+      <x>10</x>
+      <y>10</y>
+      <width>331</width>
+      <height>271</height>
      </rect>
     </property>
     <property name="text">
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../../Downloads/SPCK_CHUONG/images/2023-xtc-800-27-5-ghi-3.jpg</pixmap>
+     <pixmap>../images/xe-dap-california-570cc-ava.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -37,7 +37,7 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>300</y>
+      <y>280</y>
       <width>801</width>
       <height>231</height>
      </rect>
@@ -48,7 +48,7 @@
      </font>
     </property>
     <property name="text">
-     <string>nổi bật
+     <string>Nổi  bật
 
 Xe đạp trẻ em có lớp sơn tĩnh điện màu hồng dễ thương, phù hợp cho các bé từ 2 - 4 tuổi sử dụng.
 Khung sườn xe được làm từ thép bền bỉ, có tải trọng nguyên xe tối đa 45 kg.
@@ -61,8 +61,8 @@ Sản phẩm đến từ thương hiệu Thống Nhất - Việt Nam.</string>
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>150</y>
+      <x>370</x>
+      <y>80</y>
       <width>261</width>
       <height>81</height>
      </rect>
@@ -72,8 +72,11 @@ Sản phẩm đến từ thương hiệu Thống Nhất - Việt Nam.</string>
       <pointsize>16</pointsize>
      </font>
     </property>
+    <property name="styleSheet">
+     <string notr="true">color: red;</string>
+    </property>
     <property name="text">
-     <string>giá 4.5000,000</string>
+     <string>Giá 4.5000,000</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btncomback">
@@ -89,14 +92,50 @@ Sản phẩm đến từ thương hiệu Thống Nhất - Việt Nam.</string>
      <string>Comback </string>
     </property>
    </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>30</y>
+      <width>261</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Xe đạp Nesto Panda 2025</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>140</y>
+      <width>441</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string> 4.8 • Đã bán 55 | Tình trạng: Còn hàng | Lượt xem: 301 lượt</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
-     <height>26</height>
+     <width>747</width>
+     <height>21</height>
     </rect>
    </property>
   </widget>

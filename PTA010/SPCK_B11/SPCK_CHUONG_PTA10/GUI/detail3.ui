@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1400</width>
+    <width>744</width>
     <height>600</height>
    </rect>
   </property>
@@ -17,29 +17,88 @@
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>20</x>
+      <x>370</x>
+      <y>80</y>
+      <width>261</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: red;</string>
+    </property>
+    <property name="text">
+     <string>Giá 4.5000,000</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>270</y>
+      <width>801</width>
+      <height>231</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Nổi  bật
+
+Xe đạp trẻ em có lớp sơn tĩnh điện màu hồng dễ thương, phù hợp cho các bé từ 2 - 4 tuổi sử dụng.
+Khung sườn xe được làm từ thép bền bỉ, có tải trọng nguyên xe tối đa 45 kg.
+Yên xe làm từ chất liệu da dễ vệ sinh, các bé có thể thoải mái đạp lâu mà không sợ mỏi.
+Hệ thống phanh vành ở phía trước và phanh đùm ở bánh sau, giữ an toàn hiệu quả.
+Xe đạp được trang bị bánh phụ, chuông, chắn bùn, miếng phản quang và giỏ kèm theo tiện lợi.
+Sản phẩm đến từ thương hiệu Thống Nhất - Việt Nam.</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_12">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
       <y>10</y>
-      <width>181</width>
-      <height>221</height>
+      <width>331</width>
+      <height>271</height>
      </rect>
     </property>
     <property name="text">
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../../Downloads/SPCK_CHUONG/images/xe3.jpg</pixmap>
+     <pixmap>../images/xe-dap-california-570cc-ava.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
     </property>
    </widget>
-   <widget class="QLabel" name="label">
+   <widget class="QPushButton" name="btncomback">
     <property name="geometry">
      <rect>
-      <x>210</x>
-      <y>60</y>
-      <width>1011</width>
-      <height>121</height>
+      <x>10</x>
+      <y>520</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Comback </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>140</y>
+      <width>441</width>
+      <height>41</height>
      </rect>
     </property>
     <property name="font">
@@ -48,23 +107,25 @@
      </font>
     </property>
     <property name="text">
-     <string>Xe Đạp Calli 5900 27.5 Inch gây ấn tượng mạnh mẽ với thiết kế độc đáo trong từng chi tiết. 
-Điểm nhấn nổi bật của xe đạp địa hình là bộ phận giảm chấn sau, thiết kế để tối ưu hóa khả năng thích ứng trên mọi cung đường, 
-kể cả những địa hình khó nhất như dốc gập ghềnh và đường khúc khuỷu.
- Kết hợp cùng các phụ tùng nổi bật đem lại hiệu suất cao. /n đây là chi tiết về chiếc xe</string>
+     <string> 4.8 • Đã bán 55 | Tình trạng: Còn hàng | Lượt xem: 301 lượt</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>60</x>
-      <y>410</y>
-      <width>93</width>
-      <height>28</height>
+      <x>370</x>
+      <y>30</y>
+      <width>261</width>
+      <height>81</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string>comback</string>
+     <string>Xe đạp Nesto Panda 2025</string>
     </property>
    </widget>
   </widget>
@@ -73,8 +134,8 @@ kể cả những địa hình khó nhất như dốc gập ghềnh và đườn
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1400</width>
-     <height>26</height>
+     <width>744</width>
+     <height>21</height>
     </rect>
    </property>
   </widget>

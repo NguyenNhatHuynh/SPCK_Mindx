@@ -14,21 +14,21 @@
    <string>MainWindow</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">backgroud-color :</string>
+   <string notr="true">backgroud-color: #33CCCC;</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>140</x>
-      <y>20</y>
-      <width>151</width>
+      <x>160</x>
+      <y>30</y>
+      <width>81</width>
       <height>61</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>15</pointsize>
+      <pointsize>18</pointsize>
       <weight>75</weight>
       <bold>true</bold>
      </font>
@@ -52,79 +52,7 @@
     <property name="styleSheet">
      <string notr="true">border-radius : 10;
 background-color: black;
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</string>
+color: white;</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btnLogin">
@@ -162,7 +90,7 @@ color: white;</string>
     <property name="styleSheet">
      <string notr="true">border-radius : 10;
 background-color: black;
-</string>
+color: white;</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
@@ -174,6 +102,11 @@ background-color: black;
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
     <property name="text">
      <string>Email</string>
     </property>
@@ -183,9 +116,14 @@ background-color: black;
      <rect>
       <x>40</x>
       <y>190</y>
-      <width>55</width>
+      <width>81</width>
       <height>16</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>Password</string>
@@ -221,7 +159,7 @@ color: white;</string>
      <x>0</x>
      <y>0</y>
      <width>408</width>
-     <height>26</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
